@@ -1,0 +1,9 @@
+//para los archivos
+php artisan storage:link
+
+ArchivoController
+RegistrarArchivo
+registrar.blade.php
+
+
+https://sweetalert2.github.io
