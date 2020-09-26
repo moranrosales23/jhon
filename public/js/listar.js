@@ -14,6 +14,7 @@ function init() {
                                 <td>${dato.serie}</td>
                                 <td>${dato.numero}</td>
                                 <td>${dato.importe}</td>
+                                <td><botton></td>
                             </tr>`;
             }
             document.getElementById('lista').innerHTML = filas;
